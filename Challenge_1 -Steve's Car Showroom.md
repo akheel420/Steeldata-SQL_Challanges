@@ -9,7 +9,7 @@ select * from sales;
 select * from salespersons;
 
 **1.What are the details of all cars purchased in the year 2022?**
-``sql
+```sql
 select * from cars c
 join sales s
 on c.car_id=s.car_id
