@@ -6,9 +6,9 @@ They are:
 **Challenge 1 - Steve's Car Showroom 🚗🚗🚗🚗🚗**
 
 -Having tables:
- i.Cars
- ii.Sales
- iii.Salespersons
+ --i.Cars
+ --ii.Sales
+ --iii.Salespersons
  
 **Challenge 2 - Esports Tournament 🎾🏈🏏**
 
