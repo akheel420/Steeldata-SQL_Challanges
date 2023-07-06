@@ -13,7 +13,8 @@ select * from salespersons;
 select * from cars c
 join sales s
 on c.car_id=s.car_id
-where year(purchase_date)=2022;```
+where year(purchase_date)=2022;
+```
 
 **2.What is the total number of cars sold by each salesperson?**
 select salesman_id,count(sale_id) 
