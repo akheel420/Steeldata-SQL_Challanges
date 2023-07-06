@@ -83,7 +83,8 @@ join sales s
 on sp.salesman_id=s.salesman_id
 group by 1
 order by 2 desc
-limit 1) t;```
+limit 1) t;
+```
 
 **10.What is the name and age of the salesperson who generated the highest revenue in the year 2022?**
 ```sql
